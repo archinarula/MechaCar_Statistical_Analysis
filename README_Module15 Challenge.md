@@ -25,7 +25,7 @@ Key findings and highlights of this analysis is:
 
 1. Deliverable 1: Linear Regression to Predict MPG
 
-https://github.com/archinarula/MechaCar_Statistical_Analysis/blob/main/Linear%20Regression%20to%20Predict%20MPG.png
+![image 1](https://github.com/archinarula/MechaCar_Statistical_Analysis/blob/main/Linear%20Regression%20to%20Predict%20MPG.png)
 
 As shown in image, the Pr(>|t|) represents the probability each coefficient contributes to variance in linear regression model. Per our results the Intercept, vehicle_length and ground_clearance provide a non-random amount of variance to linear model of MPG.
 
