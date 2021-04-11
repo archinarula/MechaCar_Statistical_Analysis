@@ -38,14 +38,14 @@ R-square is 0.7149 so approx 71% (adjusted 68%) of variations in mpg can be expl
 
 2. Deliverable 2: Summary Statistics on Suspension Coils
 
-https://github.com/archinarula/MechaCar_Statistical_Analysis/blob/main/Sumary%20statistics%20on%20SuspensionCoils.png
+![image 2](https://github.com/archinarula/MechaCar_Statistical_Analysis/blob/main/Sumary%20statistics%20on%20SuspensionCoils.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. As shown in the image, the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually because overall variance is 62.3 pounds per inch which is within the specifications. 
 Also at Lot level the Mean and median are almost same so dataset appears to be normally/symetrically distributed and has zero skewness. The overall standard deviation of 7.89 indicates data points are spread over large range of values.
 
 3.Deliverable 3: T-Test on Suspension Coils
 
-https://github.com/archinarula/MechaCar_Statistical_Analysis/blob/main/T-Tests-%20total%20and%20Lots.png
+![image 3](https://github.com/archinarula/MechaCar_Statistical_Analysis/blob/main/T-Tests-%20total%20and%20Lots.png)
 
 As shown in the image, the t-Test results for sample table (random 50 data points) p-value (0.4844) is higher than the estimated significance level (0.05) hence we dont have enough evidence to reject the null hypothesis and we can conclude that data is normally distributed and the two means are statistically similar
 
