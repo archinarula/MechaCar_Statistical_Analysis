@@ -55,7 +55,7 @@ At Lot levels for Lot 3 (p-value 0.2995) is higher than the estimated significan
 
 4. Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
-We can compare the MechaCar prototype performance against the competition vehicles by performaing statistical aanlysis on metrics such as
+We can compare the MechaCar prototype performance against the competition vehicles by performaing statistical analysis on metrics such as
 - cost, 
 - city or highway fuel efficiency, 
 - horse power, 
@@ -65,7 +65,7 @@ We can compare the MechaCar prototype performance against the competition vehicl
 - Color options,
 - features in trim-levels
 
-Null hypothesis can be 'Each performace metrics is statistically same and other manufacturer vehicle' and the alternate hypothesis can be 'Performace metrics is statistically different than other manufacturer vehicle'
+Null hypothesis can be 'Each performace metrics of MechaCar is statistically same compared with other manufacturer vehicle' and the alternate hypothesis can be 'Performace metrics of MechaCar is statistically different than other manufacturer vehicle'
 
 Statistical testing to be used to make the comparison would be the ANOVA test as this test is used to compare means of a continous numerical variable across different groups and can help to compare the means for each performance metrics between MechaCar protype vs other vehical manufacturer
 
